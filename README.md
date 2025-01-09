@@ -1,12 +1,51 @@
-<<<<<<< HEAD
-# React + Vite
+# Gym Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Gym Webpage** built with **React**, **Vite**, and **Tailwind CSS**. The website promotes gym services, products, testimonials, and FAQs with a modern and interactive UI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Gym-webpage
->>>>>>> 89c9eb7c0df3921a83871976d0409846d261de17
+- **Responsive Design** with Tailwind CSS.
+- Built with **React** and **Vite** for fast performance.
+- **SEO Optimized** structure.
+- **Customizable components** for easy modifications.
+
+## Tech Stack
+
+- **Frontend**: React, Tailwind CSS, Vite
+- **Tools**: Prettier
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Kalaigar-Ayesha/Gym-webpage.git
+   cd Gym-webpage
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the server:
+   ```bash
+   npm run dev
+   ```
+
+## Components
+
+- **Navbar**: Navigation between sections.
+- **Home**: Introductory message.
+- **Services**: Gym offerings.
+- **Products**: Fitness products showcase.
+- **Testimonial**: User feedback.
+- **FAQ**: Frequently Asked Questions.
+- **Footer**: Contact details and social media links.
+
+## Contributing
+
+Feel free to fork and submit a pull request for any improvements.
+
+## License
+
+MIT License
