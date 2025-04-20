@@ -2,7 +2,7 @@ import React from "react";
 
 const Testimonials = () => {
   return (
-    <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-16" id="testimonial">
+    <div className="mt-20 px-4 lg:px-14 max-w-screen-2xl mx-auto my-16" id="testimonial">
       
       {/* Why Choose Us Section */}
       <div className="my-16">
