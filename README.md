@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Webpage
 
 A responsive **Gym Webpage** built with **React**, **Vite**, and **Tailwind CSS**. The website promotes gym services, products, testimonials, and FAQs with a modern and interactive UI.
@@ -49,3 +50,6 @@ Feel free to fork and submit a pull request for any improvements.
 ## License
 
 MIT License
+=======
+# Gym-Reactjs
+>>>>>>> 65a12a181d22f069cbbfb2aba038f7c4b4fd32a2
